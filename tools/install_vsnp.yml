@@ -27,3 +27,9 @@ tools:
   - 25714108bb22
   tool_panel_section_label: vSNP
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vsnp_determine_ref_from_data
+  owner: iuc
+  revisions:
+  - a8560decb495
+  tool_panel_section_label: vSNP
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
