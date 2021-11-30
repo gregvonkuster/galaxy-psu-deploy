@@ -18,17 +18,17 @@ tools:
   revisions:
   - 3ec5c51384e6
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: data_manager_vsnp_dnaprints
+- name: vsnp_dnaprints_fetcher
   owner: iuc
   revisions:
   - 05693c942b1a
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: data_manager_vsnp_excel
+- name: vsnp_excel_fetcher
   owner: iuc
   revisions:
   - b819e969b5d9
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: data_manager_vsnp_genbank
+- name: vsnp_genbank_fetcher
   owner: iuc
   revisions:
   - 98babcb65125
