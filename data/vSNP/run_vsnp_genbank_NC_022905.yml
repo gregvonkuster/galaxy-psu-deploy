@@ -1,0 +1,12 @@
+genomes:
+    - url: https://github.com/USDA-VS/vSNP_reference_options/raw/master/Brucella_ceti2/NC_022905-NC_022906.gbk
+      id: NC_022905
+
+data_managers:
+    - id: vsnp_genbank_fetcher
+      params:
+        - 'all_fasta_source': '{{ item.id }}'
+        - 'url': '{{ item.url }}'
+      items: "{{ genomes }}"
+      data_table_reload:
+        - vsnp_genbank

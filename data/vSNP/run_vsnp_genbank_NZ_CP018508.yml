@@ -1,0 +1,12 @@
+genomes:
+    - url: https://github.com/USDA-VS/vSNP_reference_options/raw/master/Brucella_melitensis-bv1b/NZ_CP018508-NZ_CP018509.gbk
+      id: NZ_CP018508
+
+data_managers:
+    - id: vsnp_genbank_fetcher
+      params:
+        - 'all_fasta_source': '{{ item.id }}'
+        - 'url': '{{ item.url }}'
+      items: "{{ genomes }}"
+      data_table_reload:
+        - vsnp_genbank
