@@ -1,0 +1,12 @@
+genomes:
+    - url: https://raw.githubusercontent.com/USDA-VS/vSNP_reference_options/master/Brucella_melitensis-bv3/NZ_CP007760-NZ_CP007761.yml
+      id: NZ_CP007760
+
+data_managers:
+    - id: vsnp_dnaprints_fetcher
+      params:
+        - 'all_fasta_source': '{{ item.id }}'
+        - 'url': '{{ item.url }}'
+      items: "{{ genomes }}"
+      data_table_reload:
+        - vsnp_dnaprints

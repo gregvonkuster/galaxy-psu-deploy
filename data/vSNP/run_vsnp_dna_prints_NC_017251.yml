@@ -1,0 +1,12 @@
+genomes:
+    - url: https://raw.githubusercontent.com/USDA-VS/vSNP_reference_options/master/Brucella_suis1/NC_017251-NC_017250.yml
+      id: NC_017251
+
+data_managers:
+    - id: vsnp_dnaprints_fetcher
+      params:
+        - 'all_fasta_source': '{{ item.id }}'
+        - 'url': '{{ item.url }}'
+      items: "{{ genomes }}"
+      data_table_reload:
+        - vsnp_dnaprints

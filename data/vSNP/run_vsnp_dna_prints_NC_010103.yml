@@ -1,0 +1,12 @@
+genomes:
+    - url: https://raw.githubusercontent.com/USDA-VS/vSNP_reference_options/master/Brucella_canis/NC_010103-NC_010104.yml
+      id: NC_010103
+
+data_managers:
+    - id: vsnp_dnaprints_fetcher
+      params:
+        - 'all_fasta_source': '{{ item.id }}'
+        - 'url': '{{ item.url }}'
+      items: "{{ genomes }}"
+      data_table_reload:
+        - vsnp_dnaprints
