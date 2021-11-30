@@ -1,0 +1,29 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: vsnp_add_zero_coverage
+  owner: iuc
+  revisions:
+  - 6dc6dd4666e3
+  tool_panel_section_label: vSNP
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vsnp_get_snps
+  owner: iuc
+  revisions:
+  - 9ac0b1d5560d
+  tool_panel_section_label: vSNP
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vsnp_statistics
+  owner: iuc
+  revisions:
+  - b960f47c57a1
+  tool_panel_section_label: vSNP
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vsnp_build_tables
+  owner: iuc
+  revisions:
+  - 25714108bb22
+  tool_panel_section_label: vSNP
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

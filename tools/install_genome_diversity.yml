@@ -1,0 +1,11 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: raxml
+  owner: iuc
+  revisions:
+  - 73a469f7dc96
+  tool_panel_section_label: Genome Diversity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

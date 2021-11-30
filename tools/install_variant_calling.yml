@@ -1,0 +1,17 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: freebayes
+  owner: devteam
+  revisions:
+  - 57def2d7c093
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: snp_dists
+  owner: iuc
+  revisions:
+  - f78492521996
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

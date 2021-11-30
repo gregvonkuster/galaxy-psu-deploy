@@ -1,0 +1,11 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: sra_tools
+  owner: iuc
+  revisions:
+  - 83c7d564b128
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
