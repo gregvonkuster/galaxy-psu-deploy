@@ -1,0 +1,12 @@
+genomes:
+    - url: https://github.com/USDA-VS/vSNP_reference_options/raw/master/Brucella_melitensis-bv3/Bmelbv3_define_filter.xlsx
+      id: NZ_CP007760
+
+data_managers:
+    - id: vsnp_excel_fetcher
+      params:
+        - 'all_fasta_source': '{{ item.id }}'
+        - 'url': '{{ item.url }}'
+      items: "{{ genomes }}"
+      data_table_reload:
+        - vsnp_excel

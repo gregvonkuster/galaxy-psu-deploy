@@ -1,0 +1,12 @@
+genomes:
+    - url: https://github.com/USDA-VS/vSNP_reference_options/raw/master/Mycobacterium_AF2122/Mbovis_define_filter.xlsx
+      id: AF2122
+
+data_managers:
+    - id: vsnp_excel_fetcher
+      params:
+        - 'all_fasta_source': '{{ item.id }}'
+        - 'url': '{{ item.url }}'
+      items: "{{ genomes }}"
+      data_table_reload:
+        - vsnp_excel
