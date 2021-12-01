@@ -1,6 +1,6 @@
 genomes:
     - url: https://github.com/USDA-VS/vSNP_reference_options/raw/master/Mycobacterium_AF2122/Mbovis_define_filter.xlsx
-      id: AF2122
+      id: NC_002945
 
 data_managers:
     - id: vsnp_excel_fetcher

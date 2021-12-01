@@ -1,7 +1,7 @@
 genomes:
     - accession: NC_002945.4
       name: Mycobacterium bovis AF2122/97
-      id: AF2122
+      id: NC_002945
 
 data_managers:
     - id: data_manager_fetch_genome_all_fasta_dbkey
