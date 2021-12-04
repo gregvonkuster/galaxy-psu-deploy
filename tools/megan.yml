@@ -1,0 +1,35 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: megan_blast2lca
+  owner: iuc
+  revisions:
+  - 1930eb870dca
+  tool_panel_section_label: MEGAN
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: megan_blast2rma
+  owner: iuc
+  revisions:
+  - 2f8d3924bb3b
+  tool_panel_section_label: MEGAN
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: megan_daa2info
+  owner: iuc
+  revisions:
+  - 2f8df8e575f2
+  tool_panel_section_label: MEGAN
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: megan_daa_meganizer
+  owner: iuc
+  revisions:
+  - ca7c839a75ab
+  tool_panel_section_label: MEGAN
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: megan_read_extractor
+  owner: iuc
+  revisions:
+  - c114d334c67b
+  tool_panel_section_label: MEGAN
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
