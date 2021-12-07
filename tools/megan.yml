@@ -33,3 +33,9 @@ tools:
   - c114d334c67b
   tool_panel_section_label: MEGAN
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: megan_daa2rma
+  owner: iuc
+  revisions:
+  - e13ac00e6a4d
+  tool_panel_section_label: MEGAN
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
