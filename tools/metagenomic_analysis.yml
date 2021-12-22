@@ -15,6 +15,18 @@ tools:
   - e674066930b2
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken2tax
+  owner: devteam
+  revisions:
+  - f03c7ba8d8bc
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_report
+  owner: devteam
+  revisions:
+  - 1902d3de4a4f
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: kraken_taxonomy_report
   owner: iuc
   revisions:
@@ -25,5 +37,11 @@ tools:
   owner: iuc
   revisions:
   - b08ac10aed96
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: taxonomy_krona_chart
+  owner: crs4
+  revisions:
+  - e9005d1f3cfd
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
