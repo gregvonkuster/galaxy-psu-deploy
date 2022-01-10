@@ -1,0 +1,9 @@
+data_managers:
+    - id: dada2_fetcher
+      params:
+        - 'db_select': 'gtdb'
+        - 'version_select': '2018_11'
+      data_table_reload:
+        - dada2_species
+        - dada2_taxonomy
+

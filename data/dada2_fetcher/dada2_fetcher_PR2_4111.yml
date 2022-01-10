@@ -1,0 +1,9 @@
+data_managers:
+    - id: dada2_fetcher
+      params:
+        - 'db_select': 'PR2'
+        - 'version_select': '4.11.1'
+      data_table_reload:
+        - dada2_species
+        - dada2_taxonomy
+

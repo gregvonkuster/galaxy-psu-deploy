@@ -1,0 +1,9 @@
+data_managers:
+    - id: dada2_fetcher
+      params:
+        - 'db_select': 'greengenes'
+        - 'version_select': '13.84'
+      data_table_reload:
+        - dada2_species
+        - dada2_taxonomy
+

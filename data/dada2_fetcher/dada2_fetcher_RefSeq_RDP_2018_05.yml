@@ -1,0 +1,9 @@
+data_managers:
+    - id: dada2_fetcher
+      params:
+        - 'db_select': 'RefSeq_RDP'
+        - 'version_select': '2018_05'
+      data_table_reload:
+        - dada2_species
+        - dada2_taxonomy
+
