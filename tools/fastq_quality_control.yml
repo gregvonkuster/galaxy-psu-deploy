@@ -15,3 +15,9 @@ tools:
   - d94aff5ee623
   tool_panel_section_label: FASTQ Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: fastqc
+  owner: devteam
+  revisions:
+  - 3d0c7bdf12f5
+  tool_panel_section_label: FASTQ Quality Control
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
