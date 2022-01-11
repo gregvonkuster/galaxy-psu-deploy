@@ -1,8 +1,8 @@
 data_managers:
     - id: dada2_fetcher
       params:
-        - 'db_select': 'rdp'
-        - 'version_select': '14'
+        - 'db_cond|db_select': 'rdp'
+        - 'db_cond|version_select': '14'
       data_table_reload:
         - dada2_species
         - dada2_taxonomy

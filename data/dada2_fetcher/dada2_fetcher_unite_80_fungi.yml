@@ -1,8 +1,8 @@
 data_managers:
     - id: dada2_fetcher
       params:
-        - 'db_select': 'unite'
-        - 'version_select': '8.0_fungi'
+        - 'db_cond|db_select': 'unite'
+        - 'db_cond|version_select': '8.0_fungi'
       data_table_reload:
         - dada2_species
         - dada2_taxonomy

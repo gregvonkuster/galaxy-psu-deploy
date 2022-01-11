@@ -1,8 +1,8 @@
 data_managers:
     - id: dada2_fetcher
       params:
-        - 'db_select': 'hitdb'
-        - 'version_select': '1'
+        - 'db_cond|db_select': 'hitdb'
+        - 'db_cond|version_select': '1'
       data_table_reload:
         - dada2_species
         - dada2_taxonomy

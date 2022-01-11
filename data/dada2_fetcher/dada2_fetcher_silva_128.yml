@@ -1,8 +1,8 @@
 data_managers:
     - id: dada2_fetcher
       params:
-        - 'db_select': 'silva'
-        - 'version_select': '128'
+        - 'db_cond|db_select': 'silva'
+        - 'db_cond|version_select': '128'
       data_table_reload:
         - dada2_species
         - dada2_taxonomy
