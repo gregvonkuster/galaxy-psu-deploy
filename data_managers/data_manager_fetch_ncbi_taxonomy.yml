@@ -1,0 +1,10 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: data_manager_fetch_ncbi_taxonomy
+  owner: devteam
+  revisions:
+  - 6dd9e00dea95
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
