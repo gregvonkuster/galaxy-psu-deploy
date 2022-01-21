@@ -105,3 +105,9 @@ tools:
   - 0a1224c4b781
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: maxbin2
+  owner: mbernt
+  revisions:
+  - 4ef88f9a195d
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
