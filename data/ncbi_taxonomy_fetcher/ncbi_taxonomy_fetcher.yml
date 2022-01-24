@@ -1,0 +1,7 @@
+data_managers:
+    - id: ncbi_taxonomy_fetcher
+      params:
+        - 'taxonomy_url': 'ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz'
+      data_table_reload:
+        - ncbi_taxonomy
+

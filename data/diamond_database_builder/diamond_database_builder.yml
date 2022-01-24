@@ -1,0 +1,10 @@
+data_managers:
+    - id: diamond_database_builder
+      params:
+        - 'database_name': 'NCBI-nr database 2021-12-04'
+        - 'database_id': 'NCBI-nr-2021-12-04'
+        - 'reference_source|reference_source_selector': 'url'
+        - 'reference_source|user_url': 'https://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/nr.gz'
+      data_table_reload:
+        - diamond_database
+
