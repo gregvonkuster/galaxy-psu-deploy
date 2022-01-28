@@ -6,54 +6,54 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
-  - a9b8c9e204ee
+  - f338e9942b27
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: rnaspades
   owner: iuc
   revisions:
-  - b66de1e9abfb
+  - ef69617ecb42
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: spades
   owner: nml
   revisions:
-  - 74f20c988994
+  - d2d1df21dfb9
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: spades_biosyntheticspades
   owner: iuc
   revisions:
-  - 42a39792aaae
+  - 1bb12736175c
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: spades_coronaspades
   owner: iuc
   revisions:
-  - 7004279ff8b7
+  - 808b3a0a6716
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: spades_metaplasmidspades
   owner: iuc
   revisions:
-  - 32ab23671cc1
+  - 8d4b90bf9caf
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: spades_metaviralspades
   owner: iuc
   revisions:
-  - 9346dcffaafc
+  - f1532cb33c75
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: spades_plasmidspades
   owner: iuc
   revisions:
-  - eabeb1a74dac
+  - e41dcb0e913b
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: spades_rnaviralspades
   owner: iuc
   revisions:
-  - 5df83f4bad67
+  - 249f6a28c751
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
