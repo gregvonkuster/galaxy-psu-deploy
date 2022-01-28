@@ -111,3 +111,15 @@ tools:
   - 4ef88f9a195d
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: metabat2
+  owner: iuc
+  revisions:
+  - 76bc4efa1aeb
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: metabat2_jgi_summarize_bam_contig_depths
+  owner: iuc
+  revisions:
+  - d27a4ed006ee
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
