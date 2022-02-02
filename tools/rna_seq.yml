@@ -12,6 +12,6 @@ tools:
 - name: bbtools_bbduk
   owner: iuc
   revisions:
-  - 204a131e47db
+  - 60dd895841cd
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
