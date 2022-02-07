@@ -18,6 +18,6 @@ tools:
 - name: bbtools_bbmap
   owner: iuc
   revisions:
-  - 8157a81f511c
+  - 6d44c9f1a42b
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
