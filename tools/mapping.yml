@@ -21,3 +21,9 @@ tools:
   - 6d44c9f1a42b
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: malt_run
+  owner: iuc
+  revisions:
+  - d505990b8c89
+  tool_panel_section_label: Mapping
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

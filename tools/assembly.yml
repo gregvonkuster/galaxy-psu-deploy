@@ -57,3 +57,45 @@ tools:
   - 249f6a28c751
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: flye
+  owner: bgruening
+  revisions:
+  - 276f5d8712d5
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: canu
+  owner: bgruening
+  revisions:
+  - 86f150c8019d
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: pilon
+  owner: iuc
+  revisions:
+  - 11e5408fd238
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: berokka
+  owner: iuc
+  revisions:
+  - 18c0086450bb
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: unicycler
+  owner: iuc
+  revisions:
+  - 9e3e80cc4ad4
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: masurca
+  owner: dnbenso
+  revisions:
+  - 784cb0a6cfdb
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: quast
+  owner: iuc
+  revisions:
+  - 875d0f36d66f
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
