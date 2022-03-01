@@ -123,3 +123,21 @@ tools:
   - d27a4ed006ee
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: concoct
+  owner: iuc
+  revisions:
+  - 06c0eb033025
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: concoct_extract_fasta_bins
+  owner: iuc
+  revisions:
+  - 1bc8fd1b3ed0
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: binning_refiner
+  owner: iuc
+  revisions:
+  - f350d182f786
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
