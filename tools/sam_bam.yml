@@ -9,3 +9,9 @@ tools:
   - 7def34e6cf4d
   tool_panel_section_label: SAM/BAM
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: samtools_bedcov
+  owner: devteam
+  revisions:
+  - 46c6639921f1
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
