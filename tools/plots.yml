@@ -1,0 +1,23 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: phyloseq_from_dada2
+  owner: iuc
+  revisions:
+  - 46a99bd1f10e
+  tool_panel_section_label: Graph/Display Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: phyloseq_plot_richness
+  owner: iuc
+  revisions:
+  - 92b82deaaed1
+  tool_panel_section_label: Graph/Display Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: phyloseq_plot_ordination
+  owner: iuc
+  revisions:
+  - 11d43fa12aab
+  tool_panel_section_label: Graph/Display Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
