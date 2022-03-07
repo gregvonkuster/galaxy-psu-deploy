@@ -1,0 +1,11 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: bedtools
+  owner: iuc
+  revisions:
+  - 841fb4dc3ab3
+  tool_panel_section_label: BED
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
