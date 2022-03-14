@@ -126,13 +126,31 @@ tools:
 - name: concoct
   owner: iuc
   revisions:
-  - 06c0eb033025
+  - 031f84cb2fd3
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: concoct_coverage_table
+  owner: iuc
+  revisions:
+  - 7e01297a3b4a
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: concoct_cut_up_fasta
+  owner: iuc
+  revisions:
+  - b9d37d30731e
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: concoct_extract_fasta_bins
   owner: iuc
   revisions:
-  - 1bc8fd1b3ed0
+  - a04028a8181d
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: concoct_merge_cut_up_clustering
+  owner: iuc
+  revisions:
+  - b546422c9128
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: binning_refiner
