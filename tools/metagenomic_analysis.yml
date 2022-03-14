@@ -159,3 +159,9 @@ tools:
   - f350d182f786
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: drep_dereplicate
+  owner: iuc
+  revisions:
+  - ef7cd2e7bc05
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
