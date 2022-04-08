@@ -6,7 +6,7 @@ tools:
 - name: freebayes
   owner: devteam
   revisions:
-  - ef2c525bd8cd
+  - a7c9782130e8
   tool_panel_section_label: Variant Calling
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: snp_dists
