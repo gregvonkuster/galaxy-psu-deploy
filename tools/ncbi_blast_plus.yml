@@ -6,6 +6,12 @@ tools:
 - name: ncbi_blast_plus
   owner: devteam
   revisions:
-  - 5edc472ec434
+  - acf4e47b734c
+  tool_panel_section_label: NCBI BLAST+
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: magicblast
+  owner: iuc
+  revisions:
+  - e6799e98c5fb
   tool_panel_section_label: NCBI BLAST+
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
