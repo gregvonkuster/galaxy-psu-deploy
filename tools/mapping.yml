@@ -18,7 +18,7 @@ tools:
 - name: bbtools_bbmap
   owner: iuc
   revisions:
-  - 6d44c9f1a42b
+  - 81cbb6a4c1ca
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: malt_run
