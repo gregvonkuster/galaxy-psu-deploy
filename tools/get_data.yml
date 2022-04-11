@@ -9,3 +9,9 @@ tools:
   - 83c7d564b128
   tool_panel_section_label: Get Data
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: ncbi_datasets
+  owner: iuc
+  revisions:
+  - c47a0a93ffd2
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
