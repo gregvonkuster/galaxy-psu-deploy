@@ -12,7 +12,7 @@ tools:
 - name: vsnp_get_snps
   owner: iuc
   revisions:
-  - 44b84d32883c
+  - ae7b1b97a2a0
   tool_panel_section_label: vSNP
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: vsnp_statistics
