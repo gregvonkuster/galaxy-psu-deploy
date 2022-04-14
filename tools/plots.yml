@@ -3,6 +3,12 @@ install_repository_dependencies: false
 install_resolver_dependencies: false
 
 tools:
+- name: charts
+  owner: iuc
+  revisions:
+  - 344ac3ca7557
+  tool_panel_section_label: Graph/Display Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: phyloseq_from_dada2
   owner: iuc
   revisions:
