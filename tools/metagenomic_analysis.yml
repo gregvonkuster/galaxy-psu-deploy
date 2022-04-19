@@ -303,3 +303,69 @@ tools:
   - 256fc747d1d8
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_pick_closed_reference_otus
+  owner: iuc
+  revisions:
+  - 5307c6be95df
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_pick_open_reference_otus
+  owner: iuc
+  revisions:
+  - be533bd1ad65
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_pick_otus
+  owner: iuc
+  revisions:
+  - 241c55a65e1f
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_pick_rep_set
+  owner: iuc
+  revisions:
+  - 7cba5f38ec6e
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_plot_taxa_summary
+  owner: iuc
+  revisions:
+  - ab12aca3ede9
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_split_libraries
+  owner: iuc
+  revisions:
+  - 2aca5aae5d10
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_split_libraries_fastq
+  owner: iuc
+  revisions:
+  - c2ffcfff57f6
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_summarize_taxa
+  owner: iuc
+  revisions:
+  - f123155af742
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_summarize_taxa_through_plots
+  owner: iuc
+  revisions:
+  - 834ef917138f
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_upgma_cluster
+  owner: iuc
+  revisions:
+  - aae131716d22
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qiime_validate_mapping_file
+  owner: iuc
+  revisions:
+  - d1701fcfd7e5
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
