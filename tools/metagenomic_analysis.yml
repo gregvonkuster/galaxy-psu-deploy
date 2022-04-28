@@ -156,7 +156,7 @@ tools:
 - name: binning_refiner
   owner: iuc
   revisions:
-  - f350d182f786
+  - 1c8d0916f97f
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: drep_dereplicate
