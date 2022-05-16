@@ -1,5 +1,5 @@
 genomes:
-    - url: https://github.com/USDA-VS/vSNP_reference_options/tree/master/NC_045512_wuhan-hu-1/NC_045512_define_filter.xlsx
+    - url: https://github.com/USDA-VS/vSNP_reference_options/raw/master/NC_045512_wuhan-hu-1/NC_045512_define_filter.xlsx
       id: NC_045512
 
 data_managers:
