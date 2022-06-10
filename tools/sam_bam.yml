@@ -15,3 +15,21 @@ tools:
   - 46c6639921f1
   tool_panel_section_label: SAM/BAM
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: samtools_fixmate
+  owner: iuc
+  revisions:
+  - 595ae1ba934a
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: samtools_sort
+  owner: devteam
+  revisions:
+  - 6c2c1836728b
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: samtools_markdup
+  owner: iuc
+  revisions:
+  - 8c440c3002bc
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
