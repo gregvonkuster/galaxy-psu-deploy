@@ -27,3 +27,9 @@ tools:
   - d505990b8c89
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: minimap2
+  owner: iuc
+  revisions:
+  - 11a0d50a54e6
+  tool_panel_section_label: Mapping
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
