@@ -9,3 +9,15 @@ tools:
   - fa24bf0598f4
   tool_panel_section_label: VCF/BCF
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bcftools_mpileup
+  owner: iuc
+  revisions:
+  - 6d7dc9a1bef3
+  tool_panel_section_label: VCF/BCF
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bcftools_call
+  owner: iuc
+  revisions:
+  - d267bcfdc8fe
+  tool_panel_section_label: VCF/BCF
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
