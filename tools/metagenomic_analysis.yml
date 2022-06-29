@@ -165,3 +165,9 @@ tools:
   - ef7cd2e7bc05
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: aldex2
+  owner: iuc
+  revisions:
+  - f4d0bd4b4d6d
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
