@@ -18,13 +18,13 @@ tools:
 - name: bbtools_bbmap
   owner: iuc
   revisions:
-  - 81cbb6a4c1ca
+  - 858a65b52cf9
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: malt_run
   owner: iuc
   revisions:
-  - d505990b8c89
+  - 87a1202c03e8
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: minimap2

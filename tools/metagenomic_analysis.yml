@@ -36,7 +36,7 @@ tools:
 - name: bracken
   owner: iuc
   revisions:
-  - b08ac10aed96
+  - 19035a7b1106
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: taxonomy_krona_chart
@@ -108,7 +108,7 @@ tools:
 - name: maxbin2
   owner: mbernt
   revisions:
-  - 4ef88f9a195d
+  - 8a0473eb465e
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: metabat2
@@ -126,31 +126,31 @@ tools:
 - name: concoct
   owner: iuc
   revisions:
-  - 031f84cb2fd3
+  - 3842ef1b2f34
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: concoct_coverage_table
   owner: iuc
   revisions:
-  - 7e01297a3b4a
+  - 6302656ed45d
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: concoct_cut_up_fasta
   owner: iuc
   revisions:
-  - b9d37d30731e
+  - 0132036a530a
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: concoct_extract_fasta_bins
   owner: iuc
   revisions:
-  - a04028a8181d
+  - bcd8d64f82b7
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: concoct_merge_cut_up_clustering
   owner: iuc
   revisions:
-  - b546422c9128
+  - 21ccf9548e2c
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: binning_refiner
@@ -162,7 +162,7 @@ tools:
 - name: drep_dereplicate
   owner: iuc
   revisions:
-  - ef7cd2e7bc05
+  - 368cb4bef9d8
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: aldex2

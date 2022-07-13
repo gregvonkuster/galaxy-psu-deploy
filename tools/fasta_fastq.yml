@@ -6,13 +6,13 @@ tools:
 - name: flash
   owner: iuc
   revisions:
-  - a27654fc4270
+  - 01a4ebf1f237
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: cutadapt
   owner: lparsons
   revisions:
-  - 02c5a84971c8
+  - 5915ea1ec9b1
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: adapter_removal

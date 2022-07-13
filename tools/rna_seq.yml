@@ -6,7 +6,7 @@ tools:
 - name: diamond
   owner: bgruening
   revisions:
-  - f921014aba5a
+  - 1e3323a44643
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: bbtools_bbduk

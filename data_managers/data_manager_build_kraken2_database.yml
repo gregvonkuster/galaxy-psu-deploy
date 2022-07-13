@@ -6,5 +6,5 @@ tools:
 - name: data_manager_build_kraken2_database
   owner: iuc
   revisions:
-  - 2f27f3b86827
+  - 9002633b4737
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
