@@ -1,0 +1,77 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: trinity_contig_exn50_statistic
+  owner: iuc
+  revisions:
+  - be3f26533209
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_abundance_estimates_to_matrix
+  owner: iuc
+  revisions:
+  - bcc5f03f1900
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_gene_to_trans_map
+  owner: iuc
+  revisions:
+  - 964b7efe2639
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_run_de_analysis
+  owner: iuc
+  revisions:
+  - eafea3083352
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_samples_qccheck
+  owner: iuc
+  revisions:
+  - 3a4ac03d1266
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_super_transcripts
+  owner: iuc
+  revisions:
+  - bdede464821e
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_analyze_diff_expr
+  owner: iuc
+  revisions:
+  - 3f4094b6a565
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_filter_low_expr_transcripts
+  owner: iuc
+  revisions:
+  - 1fdb25a8384d
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_align_and_estimate_abundance
+  owner: iuc
+  revisions:
+  - c2b82a94493e
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: describe_samples
+  owner: iuc
+  revisions:
+  - e3b16fd7dd08
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity
+  owner: iuc
+  revisions:
+  - d2bc35f3d1c5
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_define_clusters_by_cutting_tree
+  owner: iuc
+  revisions:
+  - 5192f657f305
+  tool_panel_section_label: Trinity
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
