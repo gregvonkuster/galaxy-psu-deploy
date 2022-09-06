@@ -6,6 +6,6 @@ tools:
 - name: picard
   owner: devteam
   revisions:
-  - 1aac2a13842a
+  - b502c227b5e6
   tool_panel_section_label: Picard
   tool_shed_url: https://toolshed.g2.bx.psu.edu/

@@ -12,12 +12,12 @@ tools:
 - name: bcftools_mpileup
   owner: iuc
   revisions:
-  - 6d7dc9a1bef3
+  - 31ea13dfe5e6
   tool_panel_section_label: VCF/BCF
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: bcftools_call
   owner: iuc
   revisions:
-  - d267bcfdc8fe
+  - c37b684e7f4e
   tool_panel_section_label: VCF/BCF
   tool_shed_url: https://toolshed.g2.bx.psu.edu/

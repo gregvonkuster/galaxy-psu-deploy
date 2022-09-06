@@ -18,7 +18,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
-  - 595ae1ba934a
+  - 41e36c99a008
   tool_panel_section_label: SAM/BAM
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: samtools_sort
@@ -30,6 +30,6 @@ tools:
 - name: samtools_markdup
   owner: iuc
   revisions:
-  - 887e02a45734
+  - b5527cc104ab
   tool_panel_section_label: SAM/BAM
   tool_shed_url: https://toolshed.g2.bx.psu.edu/

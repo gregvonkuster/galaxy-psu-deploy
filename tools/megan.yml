@@ -12,7 +12,7 @@ tools:
 - name: megan_blast2rma
   owner: iuc
   revisions:
-  - d326b943f5e2
+  - 45fd617493eb
   tool_panel_section_label: MEGAN
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: megan_daa2info
@@ -24,7 +24,7 @@ tools:
 - name: megan_daa_meganizer
   owner: iuc
   revisions:
-  - bb2a8bd85c85
+  - 6ca88053665c
   tool_panel_section_label: MEGAN
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: megan_read_extractor
@@ -36,12 +36,12 @@ tools:
 - name: megan_daa2rma
   owner: iuc
   revisions:
-  - 10360f9989ee
+  - 8a9cad43dcde
   tool_panel_section_label: MEGAN
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: megan_sam2rma
   owner: iuc
   revisions:
-  - 4f0a8e401e2e
+  - ef0443c0eaba
   tool_panel_section_label: MEGAN
   tool_shed_url: https://toolshed.g2.bx.psu.edu/

@@ -6,6 +6,6 @@ tools:
 - name: raxml
   owner: iuc
   revisions:
-  - 73a469f7dc96
+  - 29ff6a849eac
   tool_panel_section_label: Genome Diversity
   tool_shed_url: https://toolshed.g2.bx.psu.edu/

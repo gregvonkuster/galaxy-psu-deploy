@@ -12,6 +12,6 @@ tools:
 - name: magicblast
   owner: iuc
   revisions:
-  - e6799e98c5fb
+  - aea6702a3cd5
   tool_panel_section_label: NCBI BLAST+
   tool_shed_url: https://toolshed.g2.bx.psu.edu/

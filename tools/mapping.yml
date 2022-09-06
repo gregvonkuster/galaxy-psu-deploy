@@ -12,7 +12,7 @@ tools:
 - name: bwa
   owner: devteam
   revisions:
-  - 64f11cf59c6e
+  - e188dc7a68e6
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: bbtools_bbmap
