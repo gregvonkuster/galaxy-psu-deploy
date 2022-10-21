@@ -1,0 +1,64 @@
+install_repository_dependencies: false
+install_resolver_dependencies: false
+install_tool_dependencies: false
+tools:
+- name: hhsearch
+  owner: guerler
+  revisions:
+  - 589e4d51bda4
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spring_map
+  owner: guerler
+  revisions:
+  - 5f5cdcfaa1a9
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spring_minz
+  owner: guerler
+  revisions:
+  - aaf729ca617f
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spring_model
+  owner: guerler
+  revisions:
+  - 3fd0f313665b
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spring_cross
+  owner: guerler
+  revisions:
+  - db9f846c70bb
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spring_model_all
+  owner: guerler
+  revisions:
+  - cfcfe731de55
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spring_mcc
+  owner: guerler
+  revisions:
+  - d9bc4f4d6aea
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: ffindex_dbkit_create
+  owner: guerler
+  revisions:
+  - 3b449f158132
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: ffindex_dbkit_extract
+  owner: guerler
+  revisions:
+  - 4def47766a3c
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: ffindex_dbkit_merge
+  owner: guerler
+  revisions:
+  - 37b77aabeb3e
+  tool_panel_section_label: Protein Modeling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
