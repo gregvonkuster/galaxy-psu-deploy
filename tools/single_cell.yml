@@ -1,0 +1,190 @@
+install_repository_dependencies: false
+install_resolver_dependencies: false
+install_tool_dependencies: false
+tools:
+- name: scanpy_plot
+  owner: iuc
+  revisions:
+  - aa0c474463c2
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_inspect
+  owner: iuc
+  revisions:
+  - c5d3684f7c4c
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_filter
+  owner: iuc
+  revisions:
+  - b409c2486353
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_normalize
+  owner: iuc
+  revisions:
+  - ab55fe8030b6
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_plot
+  owner: iuc
+  revisions:
+  - aa0c474463c2
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_cluster_reduce_dimension
+  owner: iuc
+  revisions:
+  - aaa5da8e73a9
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_remove_confounders
+  owner: iuc
+  revisions:
+  - bf2017df9837
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: anndata_export
+  owner: iuc
+  revisions:
+  - 0cb889db0910
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: anndata_import
+  owner: iuc
+  revisions:
+  - fb9e030ffae4
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: anndata_inspect
+  owner: iuc
+  revisions:
+  - ee98d611afc6
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: anndata_manipulate
+  owner: iuc
+  revisions:
+  - 3d748954434b
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: modify_loom
+  owner: iuc
+  revisions:
+  - 4b0adaa31c95
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: dropletutils
+  owner: iuc
+  revisions:
+  - a9caad671439
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: raceid_clustering
+  owner: iuc
+  revisions:
+  - 0bff0ee0683a
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: raceid_filtnormconf
+  owner: iuc
+  revisions:
+  - b83fbc90161e
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: raceid_inspectclusters
+  owner: iuc
+  revisions:
+  - f3eb2291da05
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: raceid_inspecttrajectory
+  owner: iuc
+  revisions:
+  - a6821f856a1e
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: raceid_trajectory
+  owner: iuc
+  revisions:
+  - 2af7c5086a96
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_filter_cells
+  owner: ebi-gxa
+  revisions:
+  - 4c42e5d8cb7c
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_filter_genes
+  owner: ebi-gxa
+  revisions:
+  - 7857ea93a011
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_normalise_data
+  owner: ebi-gxa
+  revisions:
+  - 439f7f939d46
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_find_variable_genes
+  owner: ebi-gxa
+  revisions:
+  - 0edb75c411a4
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_scale_data
+  owner: ebi-gxa
+  revisions:
+  - c6e52529260e
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_run_pca
+  owner: ebi-gxa
+  revisions:
+  - ce93e630b55a
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_compute_graph
+  owner: ebi-gxa
+  revisions:
+  - a58d4166805b
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_run_tsne
+  owner: ebi-gxa
+  revisions:
+  - 8eff7ec034e3
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_run_umap
+  owner: ebi-gxa
+  revisions:
+  - 0f98603d0116
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_find_cluster
+  owner: ebi-gxa
+  revisions:
+  - 35caf3c27c91
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_find_markers
+  owner: ebi-gxa
+  revisions:
+  - eb01a7e59e9a
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scanpy_plot_embed
+  owner: ebi-gxa
+  revisions:
+  - 99dd7baf9e23
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: anndata_ops
+  owner: ebi-gxa
+  revisions:
+  - a36d7a315be7
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
