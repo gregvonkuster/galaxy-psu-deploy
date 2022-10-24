@@ -1,7 +1,6 @@
-install_tool_dependencies: false
 install_repository_dependencies: false
 install_resolver_dependencies: false
-
+install_tool_dependencies: false
 tools:
 - name: mykrobe_predict
   owner: iuc
@@ -175,5 +174,191 @@ tools:
   owner: iuc
   revisions:
   - 939c59ab61cf
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: diamond
+  owner: bgruening
+  revisions:
+  - 1e3323a44643
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vsearch
+  owner: iuc
+  revisions:
+  - 9495df9dd6ef
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vegan_rarefaction
+  owner: iuc
+  revisions:
+  - b0d5976540e3
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vegan_fisher_alpha
+  owner: iuc
+  revisions:
+  - f9966e11885b
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vegan_diversity
+  owner: iuc
+  revisions:
+  - a2c047a2c380
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken
+  owner: devteam
+  revisions:
+  - aec58624706f
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scikit_bio_diversity_beta_diversity
+  owner: iuc
+  revisions:
+  - 024a9b86f853
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: metagenomeseq_normalization
+  owner: iuc
+  revisions:
+  - d16f7cc26516
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biom_add_metadata
+  owner: iuc
+  revisions:
+  - 4a6ee918c13a
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biom_convert
+  owner: iuc
+  revisions:
+  - 1b5fc03380d4
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_translate
+  owner: devteam
+  revisions:
+  - bc3e90fd13be
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_filter
+  owner: devteam
+  revisions:
+  - 3d6570bffdb1
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cd_hit_dup
+  owner: devteam
+  revisions:
+  - 0fb894bd8eba
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cat_add_names
+  owner: iuc
+  revisions:
+  - 8dfc90f35aba
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cat_prepare
+  owner: iuc
+  revisions:
+  - 8315b5cebb82
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cat_contigs
+  owner: iuc
+  revisions:
+  - c6c77d840993
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cat_summarise
+  owner: iuc
+  revisions:
+  - 7f1aaa1932d8
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cat_bins
+  owner: iuc
+  revisions:
+  - 18676df0cb3a
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bio_hansel
+  owner: iuc
+  revisions:
+  - 4deefd708943
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_partition
+  owner: iuc
+  revisions:
+  - b7429b53be2a
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_extract_partitions
+  owner: iuc
+  revisions:
+  - 98b53d46e851
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_count_median
+  owner: iuc
+  revisions:
+  - 06d1d91c67e5
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_filter_below_abundance_cutoff
+  owner: iuc
+  revisions:
+  - b469ab47b490
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_normalize_by_median
+  owner: iuc
+  revisions:
+  - e84073b420a8
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_abundance_distribution_single
+  owner: iuc
+  revisions:
+  - c018a72b523e
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_filter_abundance
+  owner: iuc
+  revisions:
+  - 97f65399e30d
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: khmer_abundance_distribution
+  owner: iuc
+  revisions:
+  - c0caca5af183
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: nonpareil
+  owner: iuc
+  revisions:
+  - 45210df786b9
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: plasflow
+  owner: iuc
+  revisions:
+  - bda6012394f7
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: valet
+  owner: iuc
+  revisions:
+  - 56236acaad45
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: staramr
+  owner: nml
+  revisions:
+  - be818ae858e4
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
