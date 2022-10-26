@@ -1,0 +1,94 @@
+install_repository_dependencies: false
+install_resolver_dependencies: false
+install_tool_dependencies: false
+tools:
+- name: chipseeker
+  owner: rnateam
+  revisions:
+  - 8bd92f2404dd
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cwpair2
+  owner: iuc
+  revisions:
+  - c4b926c9831c
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: genetrack
+  owner: iuc
+  revisions:
+  - b41a4bb828a3
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: macs2
+  owner: iuc
+  revisions:
+  - 640d3af5d833
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: sicer
+  owner: devteam
+  revisions:
+  - 5c2cc3b58c7d
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: ngsutils_bam_filter
+  owner: iuc
+  revisions:
+  - 2e957d4c4b95
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: multigps
+  owner: greg
+  revisions:
+  - 62bdb6ff11d1
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: diffbind
+  owner: bgruening
+  revisions:
+  - 163688bb8f73
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: tag_pileup_frequency
+  owner: iuc
+  revisions:
+  - 580e8bcb6413
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: pe_histogram
+  owner: iuc
+  revisions:
+  - bd1416eea1f0
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: fasta_nucleotide_color_plot
+  owner: iuc
+  revisions:
+  - e4b5401adcec
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: resize_coordinate_window
+  owner: iuc
+  revisions:
+  - 4eb3cc1f8466
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: repmatch_gff3
+  owner: iuc
+  revisions:
+  - 79f505a25bb8
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: macs
+  owner: devteam
+  revisions:
+  - e5f3bfba6812
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: genrich
+  owner: iuc
+  revisions:
+  - 8353f3cc03db
+  tool_panel_section_label: ChIP-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
