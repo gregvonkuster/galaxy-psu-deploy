@@ -218,6 +218,12 @@ tools:
   - ffd1300599a1
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trinity_define_clusters_by_cutting_tree
+  owner: iuc
+  revisions:
+  - 5192f657f305
+  tool_panel_section_label: RNA-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: trinity_run_de_analysis
   owner: iuc
   revisions:
