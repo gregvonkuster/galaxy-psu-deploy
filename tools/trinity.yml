@@ -21,12 +21,6 @@ tools:
   - 964b7efe2639
   tool_panel_section_label: Trinity
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: trinity_run_de_analysis
-  owner: iuc
-  revisions:
-  - eafea3083352
-  tool_panel_section_label: Trinity
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: trinity_samples_qccheck
   owner: iuc
   revisions:
@@ -67,11 +61,5 @@ tools:
   owner: iuc
   revisions:
   - d2bc35f3d1c5
-  tool_panel_section_label: Trinity
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: trinity_define_clusters_by_cutting_tree
-  owner: iuc
-  revisions:
-  - 5192f657f305
   tool_panel_section_label: Trinity
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
