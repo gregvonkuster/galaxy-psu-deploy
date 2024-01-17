@@ -1,0 +1,203 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: deg_annotate
+  owner: iuc
+  revisions:
+  - e98d4ab5b5bc
+  tool_panel_section_label: RNA-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: slamdunk
+  owner: iuc
+  revisions:
+  - 5a26589d95ad
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rnaz_annotate
+  owner: bgruening
+  revisions:
+  - e123d5c6f489
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: antarna
+  owner: rnateam
+  revisions:
+  - cfe9e6771518
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: arriba
+  owner: iuc
+  revisions:
+  - 01ccd366690d
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: arriba_draw_fusions
+  owner: iuc
+  revisions:
+  - cf01dd6c6b1f
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: arriba_get_filters
+  owner: iuc
+  revisions:
+  - 703a2cb3fb38
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: barrnap
+  owner: iuc
+  revisions:
+  - fe48aa4ccd5e
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: blockbuster
+  owner: rnateam
+  revisions:
+  - 7c7ff7a3503f
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: blockclust
+  owner: rnateam
+  revisions:
+  - dbb6ee3179bc
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: heinz
+  owner: iuc
+  revisions:
+  - 2b80a2596064
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cemitool
+  owner: iuc
+  revisions:
+  - 3f9ff31c88bb
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: chira_collapse
+  owner: iuc
+  revisions:
+  - 05996586c8b3
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: chira_extract
+  owner: iuc
+  revisions:
+  - 73d2b7a8d94b
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: chira_map
+  owner: iuc
+  revisions:
+  - 7925dd016f53
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: chira_merge
+  owner: iuc
+  revisions:
+  - 9930af9d17f8
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: chira_quantify
+  owner: iuc
+  revisions:
+  - 38d2b1f38992
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: circexplorer2
+  owner: iuc
+  revisions:
+  - 465d6578b4d0
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: infernal
+  owner: bgruening
+  revisions:
+  - c9e29ac5d099
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cmcv
+  owner: rnateam
+  revisions:
+  - 8405fa59c2b2
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cmv
+  owner: rnateam
+  revisions:
+  - 6e36667f1729
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cmsearch_deoverlap
+  owner: rnateam
+  revisions:
+  - 54b16c794341
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cofold
+  owner: rnateam
+  revisions:
+  - 6fed0bc99753
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: crosscontamination_barcode_filter
+  owner: iuc
+  revisions:
+  - 5ade5cf200da
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cuffcompare
+  owner: devteam
+  revisions:
+  - f648e5180e40
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cuffdiff
+  owner: devteam
+  revisions:
+  - 43221aef70e2
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cuffmerge
+  owner: devteam
+  revisions:
+  - 86285ddd4512
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cuffnorm
+  owner: devteam
+  revisions:
+  - 9a854107dbb2
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cummerbund
+  owner: devteam
+  revisions:
+  - c3b54a4b7741
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: deseq2
+  owner: iuc
+  revisions:
+  - 8fe98f7094de
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: dexseq
+  owner: iuc
+  revisions:
+  - b47c006d90c5
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: dr_disco
+  owner: erasmus-medical-center
+  revisions:
+  - 3743fd602fa9
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: edger
+  owner: iuc
+  revisions:
+  - f2843df56434
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
