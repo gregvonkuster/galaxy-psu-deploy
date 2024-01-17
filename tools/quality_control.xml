@@ -6,59 +6,59 @@ tools:
   owner: iuc
   revisions:
   - 9a913cdee30e
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: trimmomatic
   owner: pjbriggs
   revisions:
   - d94aff5ee623
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: fastqc
   owner: devteam
   revisions:
   - 3d0c7bdf12f5
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: fastp
   owner: iuc
   revisions:
   - 65b93b623c77
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: fastq_stats
   owner: devteam
   revisions:
   - f0e7deab6518
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: fastx_quality_statistics
   owner: devteam
   revisions:
   - 59003d0543cd
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: fastx_nucleotides_distribution
   owner: devteam
   revisions:
   - ad116ae3f4d9
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: fastq_quality_boxplot
   owner: devteam
   revisions:
   - 7cf5b1d072b5
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: prinseq
   owner: iuc
   revisions:
   - 1ee282794de3
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: fastqe
   owner: iuc
   revisions:
   - 89d299153577
-  tool_panel_section_label: FASTQ Quality Control
+  tool_panel_section_label: Quality Control
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
