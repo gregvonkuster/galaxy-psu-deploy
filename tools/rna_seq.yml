@@ -20,12 +20,6 @@ tools:
   - d6f5fa4ee473
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: edger
-  owner: iuc
-  revisions:
-  - f2843df56434
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: hisat2
   owner: iuc
   revisions:
@@ -36,12 +30,6 @@ tools:
   owner: iuc
   revisions:
   - 38b6d12edc68
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: dexseq
-  owner: iuc
-  revisions:
-  - b47c006d90c5
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: stringtie
@@ -86,22 +74,10 @@ tools:
   - 43798b4caee0
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: deseq2
-  owner: iuc
-  revisions:
-  - 8fe98f7094de
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: rgrnastar
   owner: iuc
   revisions:
   - 4074fc1940e2
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: cummerbund
-  owner: devteam
-  revisions:
-  - c3b54a4b7741
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: htseq_count
@@ -116,12 +92,6 @@ tools:
   - 0f710191a66d
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: cuffmerge
-  owner: devteam
-  revisions:
-  - 86285ddd4512
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: filter_transcripts_via_tracking
   owner: devteam
   revisions:
@@ -132,12 +102,6 @@ tools:
   owner: tyty
   revisions:
   - 7bb98e9296e9
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: crosscontamination_barcode_filter
-  owner: iuc
-  revisions:
-  - 5ade5cf200da
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: egsea
