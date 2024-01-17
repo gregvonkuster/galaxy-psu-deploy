@@ -140,12 +140,6 @@ tools:
   - 5ade5cf200da
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: deg_annotate
-  owner: iuc
-  revisions:
-  - e98d4ab5b5bc
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: egsea
   owner: iuc
   revisions:
@@ -156,12 +150,6 @@ tools:
   owner: iuc
   revisions:
   - 67af24676bd6
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: heinz
-  owner: iuc
-  revisions:
-  - 2b80a2596064
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: idr
@@ -210,12 +198,6 @@ tools:
   owner: iuc
   revisions:
   - 8c28affc7c48
-  tool_panel_section_label: RNA-seq
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: slamdunk
-  owner: iuc
-  revisions:
-  - 5a26589d95ad
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: transdecoder
