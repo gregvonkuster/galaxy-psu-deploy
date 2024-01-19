@@ -50,3 +50,33 @@ tools:
   - 75acf92c8fd5
   tool_panel_section_label: Get Data
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: enasearch_retrieve_analysis_report
+  owner: iuc
+  revisions:
+  - 1e25f66e4acc
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: enasearch_retrieve_data
+  owner: iuc
+  revisions:
+  - 2f0210706f95
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: enasearch_retrieve_run_report
+  owner: iuc
+  revisions:
+  - 3dd81790a236
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: enasearch_retrieve_taxons
+  owner: iuc
+  revisions:
+  - 92e869104274
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: enasearch_search_data
+  owner: iuc
+  revisions:
+  - 63b13eb2cb8a
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

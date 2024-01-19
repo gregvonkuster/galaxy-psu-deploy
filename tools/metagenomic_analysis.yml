@@ -236,6 +236,36 @@ tools:
   - 1b5fc03380d4
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biom_from_uc
+  owner: iuc
+  revisions:
+  - 8c026d40406b
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biom_normalize_table
+  owner: iuc
+  revisions:
+  - 77174295b6f4
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biom_subset_table
+  owner: iuc
+  revisions:
+  - 6eaecade500b
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biom_summarize_table
+  owner: iuc
+  revisions:
+  - c395d0c2125e
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_biom
+  owner: iuc
+  revisions:
+  - 65eb9962d272
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: kraken_translate
   owner: devteam
   revisions:
