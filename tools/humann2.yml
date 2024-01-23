@@ -1,0 +1,107 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: combine_metaphlan2_humann2
+  owner: bebatut
+  revisions:
+  - 662a334004b4
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: compare_humann2_output
+  owner: bebatut
+  revisions:
+  - 844fcd42ec7c
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: group_humann2_uniref_abundances_to_go
+  owner: bebatut
+  revisions:
+  - fd2cf7c9d3ec
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2
+  owner: iuc
+  revisions:
+  - cda49fede0c2
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_associate
+  owner: iuc
+  revisions:
+  - e0c79dd40625
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_barplot
+  owner: iuc
+  revisions:
+  - 09c1bbec1032
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_genefamilies_genus_level
+  owner: iuc
+  revisions:
+  - 654548ae1357
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_join_tables
+  owner: iuc
+  revisions:
+  - d05ac93eabf3
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_reduce_table
+  owner: iuc
+  revisions:
+  - e0b670a43758
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_regroup_table
+  owner: iuc
+  revisions:
+  - e66ab198ec15
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_rename_table
+  owner: iuc
+  revisions:
+  - 639640ad2450
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_renorm_table
+  owner: iuc
+  revisions:
+  - c6676a890f50
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_rna_dna_norm
+  owner: iuc
+  revisions:
+  - de70d23958de
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_split_stratified_table
+  owner: iuc
+  revisions:
+  - 93adca140c9a
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_split_table
+  owner: iuc
+  revisions:
+  - 7e3fdbe9b6a2
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_strain_profiler
+  owner: iuc
+  revisions:
+  - 50f98eb4854d
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: humann2_unpack_pathways
+  owner: iuc
+  revisions:
+  - cad93abecac9
+  tool_panel_section_label: HUMAnN2
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
