@@ -20,12 +20,6 @@ tools:
   - 91887494eb97
   tool_panel_section_label: Microbiome
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: vsearch
-  owner: iuc
-  revisions:
-  - 9495df9dd6ef
-  tool_panel_section_label: Microbiome
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: nonpareil
   owner: iuc
   revisions:

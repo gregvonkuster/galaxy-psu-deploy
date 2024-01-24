@@ -122,12 +122,6 @@ tools:
   - 1e3323a44643
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: vsearch
-  owner: iuc
-  revisions:
-  - 9495df9dd6ef
-  tool_panel_section_label: Metagenomic Analysis
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: vegan_rarefaction
   owner: iuc
   revisions:
