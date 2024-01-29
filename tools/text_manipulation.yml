@@ -111,9 +111,9 @@ tools:
   tool_panel_section_label: Text Manipulation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: concatenate_multiple_datasets
-  owner: mvdbeek
+  owner: artbio
   revisions:
-  - 201c568972c3
+  - 5b2cc63d7a21
   tool_panel_section_label: Text Manipulation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: filter_tabular
@@ -126,5 +126,17 @@ tools:
   owner: bgruening
   revisions:
   - 8e251055b1a9
+  tool_panel_section_label: Text Manipulation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: compose_text_param
+  owner: iuc
+  revisions:
+  - e188c9826e0f
+  tool_panel_section_label: Text Manipulation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: map_param_value
+  owner: iuc
+  revisions:
+  - 5ac8a4bf7a8d
   tool_panel_section_label: Text Manipulation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
