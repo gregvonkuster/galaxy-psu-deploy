@@ -1,0 +1,88 @@
+install_repository_dependencies: false
+install_resolver_dependencies: false
+install_tool_dependencies: false
+tools:
+- name: kraken2
+  owner: iuc
+  revisions:
+  - e674066930b2
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken2tax
+  owner: devteam
+  revisions:
+  - f03c7ba8d8bc
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_report
+  owner: devteam
+  revisions:
+  - 1902d3de4a4f
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_taxonomy_report
+  owner: iuc
+  revisions:
+  - 27d65c78863c
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken
+  owner: devteam
+  revisions:
+  - aec58624706f
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_biom
+  owner: iuc
+  revisions:
+  - 65eb9962d272
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_translate
+  owner: devteam
+  revisions:
+  - bc3e90fd13be
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: kraken_filter
+  owner: devteam
+  revisions:
+  - 3d6570bffdb1
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: krakentools_alpha_diversity
+  owner: iuc
+  revisions:
+  - bab112ba9d62
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: krakentools_beta_diversity
+  owner: iuc
+  revisions:
+  - c254d75b8b67
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: krakentools_combine_kreports
+  owner: iuc
+  revisions:
+  - 073c867c5244
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: krakentools_extract_kraken_reads
+  owner: iuc
+  revisions:
+  - f329328da134
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: krakentools_kreport2krona
+  owner: iuc
+  revisions:
+  - 2deaada69b14
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: krakentools_kreport2mpa
+  owner: iuc
+  revisions:
+  - bb96a1e6583d
+  tool_panel_section_label: Kraken
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
