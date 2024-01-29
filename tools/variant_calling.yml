@@ -188,3 +188,9 @@ tools:
   - d12a810c837e
   tool_panel_section_label: Variant Calling
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: clair3
+  owner: iuc
+  revisions:
+  - 63e02ef6e153
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
