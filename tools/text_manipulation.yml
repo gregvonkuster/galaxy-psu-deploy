@@ -140,3 +140,9 @@ tools:
   - 5ac8a4bf7a8d
   tool_panel_section_label: Text Manipulation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: add_value
+  owner: devteam
+  revisions:
+  - 023f0a3760b3
+  tool_panel_section_label: Text Manipulation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

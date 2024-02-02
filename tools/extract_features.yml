@@ -1,0 +1,11 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: parse_mito_blast
+  owner: iuc
+  revisions:
+  - 3c9ad4adf8d2
+  tool_panel_section_label: Extract Features
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

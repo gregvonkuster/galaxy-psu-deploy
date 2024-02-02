@@ -212,3 +212,15 @@ tools:
   - 44c66e8d21e6
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: gfastats
+  owner: bgruening
+  revisions:
+  - 3ef480892a9f
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: yahs
+  owner: iuc
+  revisions:
+  - 425e63adcc5d
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
