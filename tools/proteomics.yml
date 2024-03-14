@@ -38,3 +38,45 @@ tools:
   - 28434abe6c5c
   tool_panel_section_label: Proteomics
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: openms_decoydatabase
+  owner: galaxyp
+  revisions:
+  - 25529df60a81
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: openms_featurefindermultiplex
+  owner: galaxyp
+  revisions:
+  - 9876bda3ec53
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: openms_msgfplusadapter
+  owner: galaxyp
+  revisions:
+  - f5ec766d80cf
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: openms_peptideindexer
+  owner: galaxyp
+  revisions:
+  - d6aca689dd48
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: openms_falsediscoveryrate
+  owner: galaxyp
+  revisions:
+  - 6ccbf9a2072c
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: openms_idmapper
+  owner: galaxyp
+  revisions:
+  - adca857b4884
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: openms_metaprosip
+  owner: galaxyp
+  revisions:
+  - 819ed5aae76f
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

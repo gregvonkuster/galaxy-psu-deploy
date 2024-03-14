@@ -98,3 +98,9 @@ tools:
   - c89b665b45e4
   tool_panel_section_label: deepTools
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: deeptools_bigwig_average
+  owner: bgruening
+  revisions:
+  - 4a53856a5b85
+  tool_panel_section_label: deepTools
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
