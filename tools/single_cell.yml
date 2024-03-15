@@ -338,3 +338,15 @@ tools:
   - 90e95e9ee190
   tool_panel_section_label: Single-cell
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: baredsc_combine_1d
+  owner: iuc
+  revisions:
+  - b13d3e4c48e1
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: baredsc_combine_2d
+  owner: iuc
+  revisions:
+  - 1d77986f9ddc
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

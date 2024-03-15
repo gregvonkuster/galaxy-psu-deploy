@@ -212,3 +212,9 @@ tools:
   - 012171ba9fce
   tool_panel_section_label: Annotation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: repeatmodeler
+  owner: csbl
+  revisions:
+  - fbe22cb3c869
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

@@ -35,7 +35,7 @@ tools:
 - name: stringtie
   owner: iuc
   revisions:
-  - cef79931dda5
+  - ae618321f34a
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: salmon

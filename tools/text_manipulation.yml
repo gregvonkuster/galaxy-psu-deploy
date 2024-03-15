@@ -146,3 +146,9 @@ tools:
   - 023f0a3760b3
   tool_panel_section_label: Text Manipulation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: pick_value
+  owner: iuc
+  revisions:
+  - b19e21af9c52
+  tool_panel_section_label: Text Manipulation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
