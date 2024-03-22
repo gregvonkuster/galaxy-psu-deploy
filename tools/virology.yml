@@ -8,6 +8,12 @@ tools:
   - e319b5b65879
   tool_panel_section_label: Virology
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: ivar_consensus
+  owner: iuc
+  revisions:
+  - 1069f6db0a0e
+  tool_panel_section_label: Virology
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: ivar_filtervariants
   owner: iuc
   revisions:
@@ -30,6 +36,12 @@ tools:
   owner: iuc
   revisions:
   - 5671e1d3d5ee
+  tool_panel_section_label: Virology
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: ivar_trim
+  owner: iuc
+  revisions:
+  - f0cc9cf99407
   tool_panel_section_label: Virology
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: ivar_variants
