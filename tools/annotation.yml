@@ -218,3 +218,27 @@ tools:
   - fbe22cb3c869
   tool_panel_section_label: Annotation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cpt_annotation_table
+  owner: cpt
+  revisions:
+  - 83af8dfd079d
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: agat
+  owner: bgruening
+  revisions:
+  - a6318f87f2cd
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: antismash
+  owner: bgruening
+  revisions:
+  - bc88856eddab
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: cpat
+  owner: bgruening
+  revisions:
+  - 1ac12c0cc7a0
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

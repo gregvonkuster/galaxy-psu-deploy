@@ -194,3 +194,15 @@ tools:
   - e94dc7945639
   tool_panel_section_label: Machine Learning
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biomodels_biomd0000001066
+  owner: bgruening
+  revisions:
+  - 48024c5a155f
+  tool_panel_section_label: Machine Learning
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: biomodels_biomd0000001076
+  owner: bgruening
+  revisions:
+  - e62e31ee42d9
+  tool_panel_section_label: Machine Learning
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

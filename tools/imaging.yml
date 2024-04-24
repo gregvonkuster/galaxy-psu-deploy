@@ -536,3 +536,135 @@ tools:
   - f10112b317a1
   tool_panel_section_label: Imaging
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: orientationpy
+  owner: imgteam
+  revisions:
+  - 214f548481eb
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: permutate_axis
+  owner: imgteam
+  revisions:
+  - 7e7215e721af
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: points2binaryimage
+  owner: imgteam
+  revisions:
+  - 2ad6350df85b
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: points2labelimage
+  owner: imgteam
+  revisions:
+  - 30ca5d5d03ec
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: points_association_nn
+  owner: imgteam
+  revisions:
+  - f3fad67af22c
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: projective_transformation
+  owner: imgteam
+  revisions:
+  - f5744f0e5a81
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: projective_transformation_points
+  owner: imgteam
+  revisions:
+  - 65e95d0b8838
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rename_tiff_channels
+  owner: goeckslab
+  revisions:
+  - d2c59a1ac0c4
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rfove
+  owner: imgteam
+  revisions:
+  - d10a46ef77d3
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: scale_image
+  owner: imgteam
+  revisions:
+  - d09507d3fb0e
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: segmetrics
+  owner: imgteam
+  revisions:
+  - b6e88e7bf2fa
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: slice_image
+  owner: imgteam
+  revisions:
+  - f312d414f234
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: split_labelmap
+  owner: imgteam
+  revisions:
+  - 9db1c22dbe17
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spot_detection_2d
+  owner: imgteam
+  revisions:
+  - 14f9986800fa
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spyboat
+  owner: iuc
+  revisions:
+  - 10ae027ab022
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: squidpy
+  owner: goeckslab
+  revisions:
+  - bad34051dc8a
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: superdsm
+  owner: imgteam
+  revisions:
+  - dc5f72f6b1e9
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: visceral_evaluatesegmentation
+  owner: imgteam
+  revisions:
+  - 4d042d197ac3
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: voronoi_tesselation
+  owner: imgteam
+  revisions:
+  - 8b74843c136e
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: woundhealing_scratch_assay
+  owner: bgruening
+  revisions:
+  - 8948cc562b7c
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: wsi_extract_top_view
+  owner: imgteam
+  revisions:
+  - 3bd767eee603
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bia_download
+  owner: bgruening
+  revisions:
+  - 3085096f2b99
+  tool_panel_section_label: Imaging
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

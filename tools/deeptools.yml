@@ -104,3 +104,9 @@ tools:
   - 4a53856a5b85
   tool_panel_section_label: deepTools
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: deeptools_alignmentsieve
+  owner: bgruening
+  revisions:
+  - 97b384b7bfb0
+  tool_panel_section_label: deepTools
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

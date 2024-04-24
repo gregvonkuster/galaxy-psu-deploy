@@ -224,3 +224,15 @@ tools:
   - 425e63adcc5d
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: blobtoolkit
+  owner: bgruening
+  revisions:
+  - 53dd00a4ab68
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: crispr_recognition_tool
+  owner: bgruening
+  revisions:
+  - 13999e95b2d3
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

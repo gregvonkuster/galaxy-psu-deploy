@@ -98,3 +98,9 @@ tools:
   - bfaa0d22c2e4
   tool_panel_section_label: Mapping
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bismark
+  owner: bgruening
+  revisions:
+  - 8c191acde702
+  tool_panel_section_label: Mapping
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

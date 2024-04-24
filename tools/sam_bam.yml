@@ -212,3 +212,9 @@ tools:
   - 047a20d4258f
   tool_panel_section_label: SAM/BAM
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bamhash
+  owner: bgruening
+  revisions:
+  - 63f6f42d112b
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

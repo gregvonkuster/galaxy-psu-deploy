@@ -350,3 +350,15 @@ tools:
   - 1d77986f9ddc
   tool_panel_section_label: Single-cell
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: qupath_roi_splitter
+  owner: galaxyp
+  revisions:
+  - 064b53fd3131
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: vitessce_spatial
+  owner: goeckslab
+  revisions:
+  - 4bf852448b5d
+  tool_panel_section_label: Single-cell
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

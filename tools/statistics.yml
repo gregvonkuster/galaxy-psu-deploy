@@ -200,3 +200,9 @@ tools:
   - a06f7b5c4dc7
   tool_panel_section_label: Statistics
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bg_statistical_hypothesis_testing
+  owner: bgruening
+  revisions:
+  - 178b22349b79
+  tool_panel_section_label: Statistics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
