@@ -80,3 +80,9 @@ tools:
   - 63b13eb2cb8a
   tool_panel_section_label: Get Data
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: mavedb_importer
+  owner: bgruening
+  revisions:
+  - c82b0ff7ed3d
+  tool_panel_section_label: Get Data
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

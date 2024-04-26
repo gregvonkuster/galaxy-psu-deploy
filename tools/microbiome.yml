@@ -128,3 +128,9 @@ tools:
   - 7863f1abcdda
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: interproscan5
+  owner: bgruening
+  revisions:
+  - e32f2ea6a139
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

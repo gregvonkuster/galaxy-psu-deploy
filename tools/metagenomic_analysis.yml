@@ -278,3 +278,9 @@ tools:
   - be818ae858e4
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: itsx
+  owner: bgruening
+  revisions:
+  - 2cbd0d66aa08
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

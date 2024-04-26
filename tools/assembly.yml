@@ -236,3 +236,21 @@ tools:
   - 13999e95b2d3
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: graphmap_align
+  owner: bgruening
+  revisions:
+  - 1c6c961851de
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: graphmap_overlap
+  owner: bgruening
+  revisions:
+  - 815251b32ccc
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: instagraal
+  owner: bgruening
+  revisions:
+  - d1be552c6034
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

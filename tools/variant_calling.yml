@@ -194,3 +194,9 @@ tools:
   - 63e02ef6e153
   tool_panel_section_label: Variant Calling
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: edta
+  owner: bgruening
+  revisions:
+  - f1a157358d4d
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

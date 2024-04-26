@@ -242,3 +242,63 @@ tools:
   - 1ac12c0cc7a0
   tool_panel_section_label: Annotation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer3
+  owner: bgruening
+  revisions:
+  - b1ad88bbc5fa
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_acgt_content
+  owner: bgruening
+  revisions:
+  - 4e87d6ebea62
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_build_icm
+  owner: bgruening
+  revisions:
+  - cc51783dc93c
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_extract
+  owner: bgruening
+  revisions:
+  - 3186204e3146
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_gbk_to_orf
+  owner: bgruening
+  revisions:
+  - 04861c9bbf45
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_glimmer_to_gff
+  owner: bgruening
+  revisions:
+  - 891b330ffd94
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_hmm
+  owner: bgruening
+  revisions:
+  - 5e14355f802a
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_knowledge_based
+  owner: bgruening
+  revisions:
+  - ce89c473666d
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_long_orfs
+  owner: bgruening
+  revisions:
+  - 8a7c41685ebe
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: glimmer_not_knowledge_based
+  owner: bgruening
+  revisions:
+  - 73c58e2debd0
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

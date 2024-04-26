@@ -188,3 +188,27 @@ tools:
   - 0993ac4f4a23
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: enumerate_charges
+  owner: bgruening
+  revisions:
+  - 67ee76f0e497
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: featurestein
+  owner: bgruening
+  revisions:
+  - 0eb24d808e75
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: fpocket
+  owner: bgruening
+  revisions:
+  - 4cc9d85c3bae
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: get_pubchem
+  owner: bgruening
+  revisions:
+  - 4d966d5bdd17
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

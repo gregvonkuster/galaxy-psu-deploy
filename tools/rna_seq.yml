@@ -230,3 +230,9 @@ tools:
   - 1906cb429215
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: dotknot
+  owner: bgruening
+  revisions:
+  - 42d20ff5da1b
+  tool_panel_section_label: RNA-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

@@ -296,3 +296,15 @@ tools:
   - d94aff5ee623
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: fastq_info
+  owner: bgruening
+  revisions:
+  - 7a821cd57b43
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: lighter
+  owner: bgruening
+  revisions:
+  - b4d3d0643b0a
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

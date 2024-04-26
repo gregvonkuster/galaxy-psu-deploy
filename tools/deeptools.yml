@@ -110,3 +110,15 @@ tools:
   - 97b384b7bfb0
   tool_panel_section_label: deepTools
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: deeptools_compute_matrix_operations
+  owner: bgruening
+  revisions:
+  - e6d0bff01239
+  tool_panel_section_label: deepTools
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: deeptools_estimatereadfiltering
+  owner: bgruening
+  revisions:
+  - c72a755904a9
+  tool_panel_section_label: deepTools
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
