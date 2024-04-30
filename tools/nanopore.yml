@@ -122,3 +122,27 @@ tools:
   - 276f5d8712d5
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: nanopolish_eventalign
+  owner: bgruening
+  revisions:
+  - 3b6f94fc7e1d
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: nanopolish_methylation
+  owner: bgruening
+  revisions:
+  - 90a922f32523
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: nanopolish_polya
+  owner: bgruening
+  revisions:
+  - 4857d5bcce52
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: nanopolish_variants
+  owner: bgruening
+  revisions:
+  - bec636361cfd
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

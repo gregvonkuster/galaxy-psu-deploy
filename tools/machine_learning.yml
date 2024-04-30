@@ -206,3 +206,15 @@ tools:
   - e62e31ee42d9
   tool_panel_section_label: Machine Learning
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: numeric_clustering
+  owner: bgruening
+  revisions:
+  - a3fd214e7555
+  tool_panel_section_label: Machine Learning
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: whisper
+  owner: bgruening
+  revisions:
+  - 02fa7b2245e6
+  tool_panel_section_label: Machine Learning
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

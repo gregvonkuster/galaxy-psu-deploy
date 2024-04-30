@@ -80,3 +80,9 @@ tools:
   - 819ed5aae76f
   tool_panel_section_label: Proteomics
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: protease_prediction
+  owner: bgruening
+  revisions:
+  - c7a363d7ab26
+  tool_panel_section_label: Proteomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

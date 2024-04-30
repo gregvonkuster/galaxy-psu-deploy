@@ -254,3 +254,33 @@ tools:
   - d1be552c6034
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: minced
+  owner: bgruening
+  revisions:
+  - e8cbdbc4de58
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: minipolish
+  owner: bgruening
+  revisions:
+  - 1f9f2edc8cf4
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: mitohifi
+  owner: bgruening
+  revisions:
+  - 99ddbf037d98
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: nextdenovo
+  owner: bgruening
+  revisions:
+  - 733eab97b979
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: reago
+  owner: bgruening
+  revisions:
+  - 13dd84cab09e
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

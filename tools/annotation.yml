@@ -152,12 +152,6 @@ tools:
   - ce795616bd9c
   tool_panel_section_label: Annotation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: repeat_masker
-  owner: bgruening
-  revisions:
-  - 3f987772e283
-  tool_panel_section_label: Annotation
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: roary
   owner: iuc
   revisions:
@@ -300,5 +294,23 @@ tools:
   owner: bgruening
   revisions:
   - 73c58e2debd0
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: netboxr
+  owner: bgruening
+  revisions:
+  - 785ed8621503
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: nucleosome_prediction
+  owner: bgruening
+  revisions:
+  - 49d81e777389
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: pfamscan
+  owner: bgruening
+  revisions:
+  - 15cff34c2005
   tool_panel_section_label: Annotation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/

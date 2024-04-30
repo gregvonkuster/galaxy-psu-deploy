@@ -200,3 +200,9 @@ tools:
   - f1a157358d4d
   tool_panel_section_label: Variant Calling
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: pharmcat
+  owner: bgruening
+  revisions:
+  - 891283e0ee89
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
