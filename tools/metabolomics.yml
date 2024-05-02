@@ -110,3 +110,9 @@ tools:
   - 144e4a8ad000
   tool_panel_section_label: Metabolomics
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: xcms_export_samplemetadata
+  owner: lecorguille
+  revisions:
+  - cdab04a1d1d7
+  tool_panel_section_label: Metabolomics
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
