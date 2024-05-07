@@ -314,3 +314,15 @@ tools:
   - 15cff34c2005
   tool_panel_section_label: Annotation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: tapscan
+  owner: bgruening
+  revisions:
+  - c4f865bd101a
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: trna_prediction
+  owner: bgruening
+  revisions:
+  - 358f58401cd6
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

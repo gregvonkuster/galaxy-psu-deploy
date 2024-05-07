@@ -236,3 +236,9 @@ tools:
   - 42d20ff5da1b
   tool_panel_section_label: RNA-seq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: salmonquantmerge
+  owner: bgruening
+  revisions:
+  - a896b8b7d264
+  tool_panel_section_label: RNA-seq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

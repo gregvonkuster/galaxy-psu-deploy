@@ -284,3 +284,9 @@ tools:
   - 2cbd0d66aa08
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: semibin_generate_cannot_links
+  owner: bgruening
+  revisions:
+  - dba4c0409de1
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

@@ -207,3 +207,33 @@ tools:
   - d080005cffe1
   tool_panel_section_label: RNA Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rnaz
+  owner: bgruening
+  revisions:
+  - 58fd61a8362e
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rnaz_cluster
+  owner: bgruening
+  revisions:
+  - d21d8e70e802
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rnaz_randomize_aln
+  owner: bgruening
+  revisions:
+  - 5d006d19f70a
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rnaz_select_seqs
+  owner: bgruening
+  revisions:
+  - 273a961d332f
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rnaz_window
+  owner: bgruening
+  revisions:
+  - fdfe3dcf8fc4
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

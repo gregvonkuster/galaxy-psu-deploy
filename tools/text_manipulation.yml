@@ -176,3 +176,9 @@ tools:
   - 22ec3c1a20cd
   tool_panel_section_label: Text Manipulation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: unique
+  owner: bgruening
+  revisions:
+  - 7ce75adb93be
+  tool_panel_section_label: Text Manipulation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

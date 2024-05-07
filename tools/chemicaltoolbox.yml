@@ -386,3 +386,69 @@ tools:
   - d1ca4b45f615
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rxdock_rbcavity
+  owner: bgruening
+  revisions:
+  - 0848d3b1a46f
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rxdock_rbdock
+  owner: bgruening
+  revisions:
+  - b34d068c2782
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: rxdock_sort_filter
+  owner: bgruening
+  revisions:
+  - 3e4244e74d41
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: sdf_to_tab
+  owner: bgruening
+  revisions:
+  - 4beb3e026bbb
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: shape_it
+  owner: bgruening
+  revisions:
+  - d7ecb50b2b66
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: simsearch
+  owner: bgruening
+  revisions:
+  - 425469deb136
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: spectral_hk
+  owner: bgruening
+  revisions:
+  - 8ca108879c60
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: sucos_clustering
+  owner: bgruening
+  revisions:
+  - b8725fec8c7b
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: sucos_docking_scoring
+  owner: bgruening
+  revisions:
+  - 4f1896782f7c
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: sucos_max_score
+  owner: bgruening
+  revisions:
+  - 9b48456a96fe
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: xchem_transfs_scoring
+  owner: bgruening
+  revisions:
+  - f6f9b47d02b6
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

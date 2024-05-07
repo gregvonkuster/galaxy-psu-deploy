@@ -284,3 +284,15 @@ tools:
   - 13dd84cab09e
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: tgsgapcloser
+  owner: bgruening
+  revisions:
+  - 86fa46d3ce2e
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: wtdbg
+  owner: bgruening
+  revisions:
+  - 2668027a533b
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
