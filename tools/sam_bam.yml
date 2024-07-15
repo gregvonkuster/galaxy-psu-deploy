@@ -218,3 +218,9 @@ tools:
   - 63f6f42d112b
   tool_panel_section_label: SAM/BAM
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: samtools_coverage
+  owner: iuc
+  revisions:
+  - c4ff13d2aab3
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

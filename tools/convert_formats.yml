@@ -152,3 +152,15 @@ tools:
   - 3799012ce2ff
   tool_panel_section_label: Convert Formats
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: tooldistillator
+  owner: iuc
+  revisions:
+  - 65a69de1e294
+  tool_panel_section_label: Convert Formats
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: tooldistillator_summarize
+  owner: iuc
+  revisions:
+  - 6ff67d2860e1
+  tool_panel_section_label: Convert Formats
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

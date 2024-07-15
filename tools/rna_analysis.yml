@@ -237,3 +237,9 @@ tools:
   - fdfe3dcf8fc4
   tool_panel_section_label: RNA Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: brew3r_r
+  owner: iuc
+  revisions:
+  - 05f8e9d1e8b8
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

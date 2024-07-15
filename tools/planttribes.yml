@@ -1,0 +1,11 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: plant_tribes_assembly_post_processor
+  owner: greg
+  revisions:
+  - 2c2ad8af0a4e
+  tool_panel_section_label: PlantTribes
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

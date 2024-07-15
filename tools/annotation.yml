@@ -326,3 +326,33 @@ tools:
   - 358f58401cd6
   tool_panel_section_label: Annotation
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: amrfinderplus
+  owner: iuc
+  revisions:
+  - 7844dbe4f8e2
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: isescan
+  owner: iuc
+  revisions:
+  - 9e776e7fab4f
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: integron_finder
+  owner: iuc
+  revisions:
+  - bfd290fe1588
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: plasmidfinder
+  owner: iuc
+  revisions:
+  - 7075b7a5441b
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: bakta
+  owner: iuc
+  revisions:
+  - ba6990f72184
+  tool_panel_section_label: Annotation
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

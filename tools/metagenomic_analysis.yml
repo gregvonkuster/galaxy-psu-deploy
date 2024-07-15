@@ -290,3 +290,9 @@ tools:
   - dba4c0409de1
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: recentrifuge
+  owner: iuc
+  revisions:
+  - 76bf12b928f4
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

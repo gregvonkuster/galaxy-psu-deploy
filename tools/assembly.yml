@@ -296,3 +296,9 @@ tools:
   - 2668027a533b
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: refseq_masher
+  owner: nml
+  revisions:
+  - 1ec42f033bb4
+  tool_panel_section_label: Assembly
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
